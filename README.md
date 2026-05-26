@@ -41,7 +41,7 @@ Designed for developers, security researchers, and network engineers, Oxitrace p
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Oxitrace.git
+git clone https://github.com/Edg4ks/Oxitrace.git
 cd Oxitrace
 
 
