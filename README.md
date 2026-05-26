@@ -44,7 +44,9 @@ Designed for developers, security researchers, and network engineers, Oxitrace p
 git clone https://github.com/YOUR_USERNAME/Oxitrace.git
 cd Oxitrace
 
+
 Build the project
 cargo build --release
-Run
+
+Run Oxitrace
 cargo run
